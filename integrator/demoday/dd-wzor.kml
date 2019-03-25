@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<!-- author: Tomasz Kowalewski 2019-03-25
+koordynat nie zmieniamy, tylko style 
+teraz: jest ryz -->
+<NetworkLinkControl>
+  <Update>
+    <targetHref></targetHref>
+    <Change>
+      <Placemark targetId="pl1"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+      <Placemark targetId="pl2"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+      <Placemark targetId="pl3"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+      <Placemark targetId="pl4"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+      <Placemark targetId="pl5"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+      <Placemark targetId="pl6"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+    </Change>
+  </Update>
+</NetworkLinkControl>
+</kml>
