@@ -6,7 +6,7 @@ teraz: jest ryz -->
 <NetworkLinkControl>
   <message>Wykonane polaczenie</message>
   <Update>
-    <targetHref></targetHref>
+    <targetHref>https://earth.app.goo.gl/?apn=com.google.earth&ibi=com.google.b612&isi=293622097&ius=googleearth&link=https%3a%2f%2fearth.google.com%2fweb%2f%4050,19.7,212.68395773a,67728.79439481d,35y,0h,0t,0r</targetHref>
     <Change>
       <Placemark targetId="pl1"> <styleUrl>#ryz-1</styleUrl> </Placemark>
     </Change>
