@@ -3,6 +3,7 @@
 <!-- author: Tomasz Kowalewski 2019-03-25
 koordynat nie zmieniamy, tylko style 
 teraz: jest ryz -->
+<Document>
 <NetworkLinkControl>
   <message>Wykonane polaczenie</message>
   <Update>
@@ -27,4 +28,5 @@ teraz: jest ryz -->
     </Change>
   </Update>
 </NetworkLinkControl>
+</Document>
 </kml>
