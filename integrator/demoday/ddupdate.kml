@@ -4,6 +4,7 @@
 koordynat nie zmieniamy, tylko style 
 teraz: jest ryz -->
 <NetworkLinkControl>
+  <message>Wykonane polaczenie</message>
   <Update>
     <targetHref></targetHref>
     <Change>
