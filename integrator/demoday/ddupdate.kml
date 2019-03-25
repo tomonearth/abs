@@ -8,10 +8,20 @@ teraz: jest ryz -->
     <targetHref></targetHref>
     <Change>
       <Placemark targetId="pl1"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+    </Change>
+    <Change>
       <Placemark targetId="pl2"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+    </Change>
+    <Change>
       <Placemark targetId="pl3"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+    </Change>
+    <Change>
       <Placemark targetId="pl4"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+    </Change>
+    <Change>
       <Placemark targetId="pl5"> <styleUrl>#ryz-1</styleUrl> </Placemark>
+    </Change>
+    <Change>
       <Placemark targetId="pl6"> <styleUrl>#ryz-1</styleUrl> </Placemark>
     </Change>
   </Update>
