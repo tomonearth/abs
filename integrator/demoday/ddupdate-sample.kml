@@ -2,9 +2,9 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <NetworkLinkControl>
   <Update>
-    <targetHref>http://developers.google.com/kml/documentation/Point.kml</targetHref>
+    <targetHref>https://raw.githubusercontent.com/tomonearth/abs/master/integrator/demoday/absdemo_pl_upd.kml</targetHref>
     <Change>
-      <Placemark targetId="pm123">
+      <Placemark targetId="pl2">
         <name>Name changed by Update Change</name>
         <!-- coordinates remain the same -->
       </Placemark>
