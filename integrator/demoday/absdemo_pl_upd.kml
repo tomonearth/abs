@@ -29,16 +29,14 @@
         <color>7f00ffff</color>
         <width>3</width>
       </LineStyle>
-	        <PolyStyle>
+	  <PolyStyle>
         <color>0f0f0000</color>
       </PolyStyle>
     </Style>
     <Style id="ryz-test">
       <LineStyle>
-        <LineStyle>
         <color>9900ffff</color>
         <width>3</width>
-      </LineStyle>
       </LineStyle>
       <PolyStyle>
         <color>7d00ffff</color>
@@ -174,7 +172,7 @@
             </outerBoundaryIs>
           </Polygon>
         </Placemark>
-	
+<!-- 	
     <NetworkLink>
 		<name>Laduje ddupdate</name>
 	     <visibility>1</visibility>
@@ -188,6 +186,7 @@
 			<viewRefreshTime>5</viewRefreshTime>
 		  </Link>
     </NetworkLink>
+-->
   </Folder>
 </Document>
 </kml>
