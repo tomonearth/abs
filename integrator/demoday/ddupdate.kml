@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-<!-- author: Tomasz Kowalewski 2019-03-25
-koordynat nie zmieniamy, tylko style 
-teraz: jest ryz -->
 <NetworkLinkControl>
   <message>Wykonane polaczenie</message>
   <Update>
     <targetHref>https://raw.githubusercontent.com/tomonearth/abs/master/integrator/demoday/absdemo_pl_upd.kml</targetHref>
     <Change>
       <Placemark targetId="pl1"> 
-        <styleUrl>#ryz-x</styleUrl> 
+        <styleUrl>#ryz-x</styleUrl>
+        <name>Zmieniony 1</name>
       </Placemark>
     </Change>
   </Update>
