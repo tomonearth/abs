@@ -12,7 +12,7 @@
       </LineStyle>
       <PolyStyle>
         <color>500000ff</color>
-		<fill>1</fill>
+	<fill>1</fill>
       </PolyStyle>
     </Style>
     <Style id="ryz-0">
@@ -44,11 +44,11 @@
     </Style>
 	<Folder>
         <name>PL-Balice-siec</name>
-		<open>1</open>
+	<open>1</open>
         <visibility>1</visibility>
-		<Placemark id="pl1">
+	<Placemark id="pl1">
           <name>kwadrat1</name>
-		  <description>19.40,49.90</description>
+		<description>19.40,49.90</description>
           <visibility>1</visibility>
           <styleUrl>#ryz-0</styleUrl>
           <Polygon>
@@ -61,8 +61,8 @@
                   19.40,50.00,700
                   19.60,50.00,700
                   19.60,49.90,700
-				  19.40,49.90,700
-				</coordinates>
+			19.40,49.90,700
+		</coordinates>
               </LinearRing>
             </outerBoundaryIs>
           </Polygon>
@@ -153,7 +153,11 @@
         </Placemark>
 		<Placemark id="pl6">
           <name>kwadrat6</name>
-		  <description>19.80,50.00</description>
+		<TimeSpan> 
+  			<begin>2019-03-20T03:00:00Z</begin>
+  			<end>2019-03-23T02:59:59Z</end>
+ 		</TimeSpan>
+		<description>19.80,50.00</description>
           <visibility>1</visibility>
           <styleUrl>#ryz-0</styleUrl>
           <Polygon>
