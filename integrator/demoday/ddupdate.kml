@@ -9,7 +9,7 @@ teraz: jest ryz -->
     <targetHref>https://raw.githubusercontent.com/tomonearth/abs/master/integrator/demoday/absdemo_pl_upd.kml</targetHref>
     <Change>
       <Placemark targetId="pl1"> 
-        <styleUrl>#ryz-x</styleUrl> 
+        <styleUrl>https://raw.githubusercontent.com/tomonearth/abs/master/integrator/demoday/absdemo_pl_upd.kml#ryz-x</styleUrl> 
       </Placemark>
     </Change>
     <Change>
