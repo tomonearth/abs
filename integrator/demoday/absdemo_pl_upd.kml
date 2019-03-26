@@ -44,12 +44,11 @@
         <color>7d00ffff</color>
       </PolyStyle>
     </Style>
-	
 	<Folder>
         <name>PL-Balice-siec</name>
 		<open>1</open>
         <visibility>1</visibility>
-		<Placemark> id="pl1"
+		<Placemark id="pl1">
           <name>kwadrat1</name>
 		  <description>19.40,49.90</description>
           <visibility>1</visibility>
@@ -70,7 +69,7 @@
             </outerBoundaryIs>
           </Polygon>
         </Placemark>
-		<Placemark> id="pl2"
+		<Placemark id="pl2">
           <name>kwadrat2</name>
 		  <description>19.40,50.00</description>
           <visibility>1</visibility>
@@ -91,7 +90,7 @@
             </outerBoundaryIs>
           </Polygon>
         </Placemark>		
-		<Placemark> id="pl3"
+		<Placemark id="pl3">
           <name>kwadrat3</name>
 		  <description>19.60,49.90</description>
           <visibility>1</visibility>
@@ -112,7 +111,7 @@
             </outerBoundaryIs>
           </Polygon>
         </Placemark>
-		<Placemark> id="pl4"
+		<Placemark id="pl4">
           <name>kwadrat4</name>
 		  <description>19.60,50.00</description>
           <visibility>1</visibility>
@@ -133,7 +132,7 @@
             </outerBoundaryIs>
           </Polygon>
         </Placemark>
-		<Placemark> id="pl5"
+		<Placemark id="pl5">
           <name>kwadrat5</name>
 		  <description>19.80,49.90</description>
           <visibility>1</visibility>
@@ -154,7 +153,7 @@
             </outerBoundaryIs>
           </Polygon>
         </Placemark>
-		<Placemark> id="pl6"
+		<Placemark id="pl6">
           <name>kwadrat6</name>
 		  <description>19.80,50.00</description>
           <visibility>1</visibility>
