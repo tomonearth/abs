@@ -152,7 +152,7 @@
           </Polygon>
         </Placemark>
 		<Placemark id="pl6">
-          <name>kwadrat6</name>
+          <name>kwadrat6 ts</name>
 		<TimeSpan> 
   			<begin>2019-03-20T03:00:00Z</begin>
   			<end>2019-03-23T02:59:59Z</end>
