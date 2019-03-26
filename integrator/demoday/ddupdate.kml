@@ -12,21 +12,6 @@ teraz: jest ryz -->
         <styleUrl>https://raw.githubusercontent.com/tomonearth/abs/master/integrator/demoday/absdemo_pl_upd.kml#ryz-x</styleUrl> 
       </Placemark>
     </Change>
-    <Change>
-      <Placemark targetId="pl2"> <styleUrl>#ryz-1</styleUrl> </Placemark>
-    </Change>
-    <Change>
-      <Placemark targetId="pl3"> <styleUrl>#ryz-1</styleUrl> </Placemark>
-    </Change>
-    <Change>
-      <Placemark targetId="pl4"> <styleUrl>#ryz-1</styleUrl> </Placemark>
-    </Change>
-    <Change>
-      <Placemark targetId="pl5"> <styleUrl>#ryz-1</styleUrl> </Placemark>
-    </Change>
-    <Change>
-      <Placemark targetId="pl6"> <styleUrl>#ryz-1</styleUrl> </Placemark>
-    </Change>
   </Update>
 </NetworkLinkControl>
 </kml>
