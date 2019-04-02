@@ -76,7 +76,7 @@
       <name>kwadrat2</name>
 		  <description>19.40,50.00</description>
           <visibility>1</visibility>
-          <styleUrl>#ryz-1</styleUrl>
+          <styleUrl>#ryz-x</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
@@ -120,7 +120,7 @@
       <name>kwadrat4</name>
 		  <description>19.60,50.00</description>
       <visibility>1</visibility>
-      <styleUrl>#ryz-x</styleUrl>
+      <styleUrl>#ryz-0</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
@@ -142,7 +142,7 @@
       <name>kwadrat5</name>
 		  <description>19.80,49.90</description>
       <visibility>1</visibility>
-      <styleUrl>#ryz-1</styleUrl>
+      <styleUrl>#ryz-x</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
@@ -164,7 +164,7 @@
       <name>kwadrat6 ts</name>
 		  <description>19.80,50.00</description>
       <visibility>1</visibility>
-      <styleUrl>#ryz-0</styleUrl>
+      <styleUrl>#ryz-1</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
