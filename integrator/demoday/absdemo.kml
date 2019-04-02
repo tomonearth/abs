@@ -76,7 +76,7 @@
       <name>kwadrat2</name>
 		  <description>19.40,50.00</description>
           <visibility>1</visibility>
-          <styleUrl>#ryz-x</styleUrl>
+          <styleUrl>#ryz-0</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
