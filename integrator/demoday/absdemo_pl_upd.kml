@@ -159,7 +159,7 @@
  		</TimeSpan>
 		<description>19.80,50.00</description>
           <visibility>1</visibility>
-          <styleUrl>#ryz-0</styleUrl>
+          <styleUrl>#ryz-1</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
