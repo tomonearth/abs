@@ -3,10 +3,6 @@
   xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document> id="absdemo_pl_upd.kml"
    <name>absdemo_pl_upd</name>
-    <TimeSpan> 
-  			 <begin>2019-03-20T03:00:00Z</begin>
-  			 <end>2019-03-23T02:59:59Z</end>
- 		</TimeSpan>
    <open>1</open>
    <description>PL-Balice</description>
    <Style id="ryz-1">
