@@ -3,6 +3,10 @@
   xmlns:gx="http://www.google.com/kml/ext/2.2">
   <Document> id="absdemo_pl_upd.kml"
    <name>absdemo_pl_upd</name>
+    <TimeSpan> 
+  			 <begin>2019-03-20T03:00:00Z</begin>
+  			 <end>2019-03-23T02:59:59Z</end>
+ 		</TimeSpan>
    <open>1</open>
    <description>PL-Balice</description>
    <Style id="ryz-1">
@@ -94,7 +98,7 @@
       <name>kwadrat3</name>
 		  <description>19.60,49.90</description>
       <visibility>1</visibility>
-      <styleUrl>#ryz-1</styleUrl>
+      <styleUrl>#ryz-0</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
@@ -116,7 +120,7 @@
       <name>kwadrat4</name>
 		  <description>19.60,50.00</description>
       <visibility>1</visibility>
-      <styleUrl>#ryz-0</styleUrl>
+      <styleUrl>#ryz-x</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
@@ -138,7 +142,7 @@
       <name>kwadrat5</name>
 		  <description>19.80,49.90</description>
       <visibility>1</visibility>
-      <styleUrl>#ryz-x</styleUrl>
+      <styleUrl>#ryz-1</styleUrl>
           <Polygon>
             <extrude>1</extrude>
             <tessellate>1</tessellate>
@@ -173,7 +177,7 @@
                   20.00,50.10,500
                   20.00,50.00,500
                   19.80,50.00,500
-		</coordinates>
+				        </coordinates>
               </LinearRing>
             </outerBoundaryIs>
           </Polygon>
